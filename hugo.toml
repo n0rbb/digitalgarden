@@ -6,3 +6,17 @@ theme = 'DigitalGarden'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[menu]
+[[menu.main]]
+  name = 'Principal'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Contenido'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Registro'
+  url = '/posts'
+  weight = 3
