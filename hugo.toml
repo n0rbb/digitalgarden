@@ -20,3 +20,7 @@ theme = 'DigitalGarden'
   name = 'Registro'
   url = '/posts'
   weight = 3
+[[menu.main]]
+  name = 'Notas de viaje'
+  url = '/notas_de_viaje'
+  weight = 4
