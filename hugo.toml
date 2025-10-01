@@ -1,4 +1,4 @@
-baseURL = 'https://n0rbb.github.io/digitalgarden/'
+baseURL = 'https://n0rbb.github.io/'
 languageCode = 'es-es'
 title = 'Norbb'
 theme = 'DigitalGarden' 
