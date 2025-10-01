@@ -17,7 +17,7 @@ Es absurdo cómo una madriguera de conejos (por poner un ejemplo) es a efectos p
 
 - Avistado un señor con la misma camiseta de Patricio Estrella que yo a bordo del USS Constitution.  
 - El vigilante de un Target en Bowdoin está mirando cochinadas en el móvil mientras "curra".  
-- Entramos en el pub de Cheers y suena Billie Jean (Michael Jackson)
+- Entramos en el pub de Cheers y suena Billie Jean (Michael Jackson).
 - "The filmmaker's guide to creatively embracing limitations". 
 - Salimos del metro en Central Cambridge y nos topamos con ambulancias y policía por lo que parece un caso de violencia doméstica (hay un negrillo en camilla y una vieja, también de color, intentando arrearle con un bastón).
 
@@ -26,6 +26,6 @@ Es absurdo cómo una madriguera de conejos (por poner un ejemplo) es a efectos p
 - _Mihi parta tueri_.
 - Hoy conocí a un profesor de geología en Harvard, con 90 años y yo creo que demencia. Lo encontramos solo en un cruce, asfixiado, intentando llegar a la biblioteca Lamont. Iba a una supuesta reunión que tenía a las 10. De no haberle ayudado en el cruce se podría haber desplomado allí mismo. 
 - "The Gare Saint-Lazare: Arrival of a train".
-- SPARC, heliopause. 
+- _SPARC, heliopause_. 
 - El museo del MIT está bien, pero no merece la pena pagar lo que cuesta. Al final es básicamente ellos tirándose flores por sus aportaciones a los campos de la exploración espacial (TESS y algunos instrumentos de la Voyager), genética y genómica, e IA. 
-- Voy a meter en mi lista negra de enemigos mortales a Ryan LaPerle, un artista callejero de Boston a quien he visto tocar dos días consecutivos frente al mercado Quincy (donde, por cierto, sirven un "Clam Chowda" de la ostia). Básicamente una guitarra acústica bastante "intensita" que ha destrozado Ring of Fire esta tarde. 
+- Voy a meter en mi lista negra de enemigos mortales a Ryan LaPerle, un artista callejero de Boston a quien he visto tocar dos días consecutivos frente al mercado Quincy (donde, por cierto, sirven un "_clam chowda_ de la ostia). Básicamente una guitarra acústica bastante "intensita" que ha destrozado Ring of Fire esta tarde. 

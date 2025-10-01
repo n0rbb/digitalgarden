@@ -15,12 +15,13 @@ date : 2025-09-27
 - "_I'm homeless, I wanna get laid and I wanna get pizza!_".
 
 ## 27/08/2023
-- [@melaner](https://www.instagram.com/melaner/?hl=es).
+- [@melaner](https://www.instagram.com/melaner/).
 - Primera vez escuchando jazz en directo: Arturo Sandoval en el Blue Note de Nueva York. De los momentos más "pijo-primermundistas" de mi vida. 
 - El sitio por dentro no es demasiado especial. Bastante recogido, luz tenue y suave bullicio neoyorquino de fondo. Coqueto. Lo único por lo que no traería aquí a una cita (aparte de mi capacidad económica) son las mesas: cabrán cómodamente entre 4 y 6 personas, aunque sientan a 8 personas en cada una. Podría venir con Mateo y varios colegas más y estar bastante pegaditos mientras oímos musicote. 
 
 ## 28/08/2023
 - Mussolini negro existe y trabaja en el muelle 82 del río Hudson. 
+{{<audio src="/audio/camaleon.mp3" caption="Camaleón en Bryant Park." >}}
 
 ## 29/08/2023 
 - Peter Blume. 
